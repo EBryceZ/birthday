@@ -157,7 +157,7 @@ $('document').ready(function(){
 		//$('#b55').animate({top:240, left: vw+50},500);
 		//$('#b66').animate({top:240, left: vw+150},500);
 		//$('#b77').animate({top:240, left: vw+250},500);
-		//$('.balloons').css('opacity','0.9');
+		$('.balloons').css('opacity','0');
 		//$('.balloons h2').fadeIn(3000);
 		$(this).fadeOut('slow').delay(4000).promise().done(function(){
 			$('#story').fadeIn('slow');
