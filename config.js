@@ -16,8 +16,8 @@ var config = {
         "😘",
     ],
     imgs: {
-        "心爱的小可爱": "./imgs/xiaokeai.jpg",
-        // "今天是你的生日": "./imgs/birthday.jpg",
+        "心爱的小可爱": "./imgs/xiaokeai.png",
+        
     },
     desc: {
         turn_on: "准备好了吗",
